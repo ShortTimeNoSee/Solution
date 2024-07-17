@@ -2,7 +2,6 @@ Amtrak subsidies
 National Flood Insurance Program
 Export-Import Bank
 Farm subsidies
-National School Lunch Program
 Medicare
 Medicaid
 CHIP (Children's Health Insurance Program)
@@ -41,7 +40,6 @@ Maritime Administration
 Federal Highway Administration
 United States Geological Survey
 Fish and Wildlife Service
-National Park Service
 Bureau of Indian Affairs
 Office of Surface Mining Reclamation and Enforcement
 Bureau of Reclamation
@@ -56,8 +54,6 @@ Risk Management Agency
 Rural Housing Service
 Rural Utilities Service
 Animal and Plant Health Inspection Service
-Natural Resources Conservation Service
-Forest Service
 Economic Research Service
 Agricultural Marketing Service
 Agricultural Research Service
