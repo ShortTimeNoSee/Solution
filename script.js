@@ -11,22 +11,24 @@ function fetchAndCreateList() {
                     list.appendChild(li);
                 }
             });
-            startAnimation();
+            startAnimation();  // Start animation after list items are created
         })
         .catch(error => console.error('Error fetching the list:', error));
 }
 
-const items = document.querySelectorAll('#list li');
-let index = 0;
+function startAnimation() {
+    const items = document.querySelectorAll('#list li');
+    let index = 0;
 
-function crossOutNextItem() {
-    if (index < items.length) {
-        items[index].classList.add('strikethrough', 'fade-out');
-        index++;
-        setTimeout(crossOutNextItem, 500);
+    function crossOutNextItem() {
+        if (index < items.length) {
+            items[index].classList.add('strikethrough', 'fade-out');
+            index++;
+            setTimeout(crossOutNextItem, 500);
+        }
     }
+
+    setTimeout(crossOutNextItem, 500);
 }
 
-window.onload = () => {
-    setTimeout(crossOutNextItem, 500);
-};
+window.onload = fetchAndCreateList;
