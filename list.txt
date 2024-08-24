@@ -1,140 +1,200 @@
-Amtrak subsidies
-National Flood Insurance Program
-Export-Import Bank
-Farm subsidies
-Medicare
-Medicaid
-CHIP (Children's Health Insurance Program)
-TANF (Temporary Assistance for Needy Families)
-SNAP (Supplemental Nutrition Assistance Program)
-Pell Grants
-Federal student loans
-National Labor Relations Board
-Consumer Financial Protection Bureau
-Head Start Program
-Affirmative action programs
-Federal Aviation Administration
-National Science Foundation
-Community Development Block Grants
-Appalachian Regional Commission
-Corporation for Public Broadcasting
-Public housing programs
-Indian Health Service
-Federal Emergency Management Agency
-Small Business Administration
-National Institutes of Health
-Community Oriented Policing Services
-Byrne JAG Grants
-Victims of Crime Act fund
-Federal Trade Commission
-Securities and Exchange Commission
-Commodity Futures Trading Commission
-Export Assistance Center
-Minority Business Development Agency
-Rural Business-Cooperative Service
-Federal Transit Administration
-Urban Mass Transportation Act
-Federal Railroad Administration
-Surface Transportation Board
-Maritime Administration
-Federal Highway Administration
-United States Geological Survey
-Fish and Wildlife Service
-Bureau of Indian Affairs
-Office of Surface Mining Reclamation and Enforcement
-Bureau of Reclamation
-Economic Development Administration
-Federal Housing Administration
-Inter-American Foundation
-Overseas Private Investment Corporation
-Department of Veterans Affairs
-Bureau of Land Management
-Federal Crop Insurance Corporation
-Risk Management Agency
-Rural Housing Service
-Rural Utilities Service
-Animal and Plant Health Inspection Service
-Economic Research Service
-Agricultural Marketing Service
-Agricultural Research Service
-Food and Nutrition Service
-Food Safety and Inspection Service
-Grain Inspection, Packers and Stockyards Administration
-National Agricultural Statistics Service
-Rural Business Development Grants
-Farm Service Agency
-National Oceanic and Atmospheric Administration
-Federal Communications Commission
-National Aeronautics and Space Administration
-Corporation for National and Community Service
-US Agency for Global Media
-National Nuclear Security Administration
-Bureau of Alcohol, Tobacco, Firearms and Explosives
-Federal Energy Regulatory Commission
-United States Agency for International Development
-Federal Maritime Commission
-National Endowment for the Humanities
-National Endowment for the Arts
-Legal Services Corporation
-National Transportation Safety Board
-Peace Corps
-Office of National Drug Control Policy
-Office of Science and Technology Policy
-Federal Mediation and Conciliation Service
-Surface Transportation Assistance Act
+Federal Communications Commission (FCC)
+Steel Tariffs
+Auto Emissions Standards
+Southeastern Power Administration
+Committee for Purchase from People Who Are Blind or Severely Disabled
+Federal Income Tax
+Tobacco Tax
+Delta Regional Authority
+U.S. Commission on Civil Rights
+Health Insurance Portability and Accountability Act (HIPAA)
+Affordable Housing Programs
+Coast Guard
+United Nations Funding
+Gasoline Tax
+Farm Subsidies
 Federal Motor Carrier Safety Administration
-Federal Railroad Safety Act
-Pipeline and Hazardous Materials Safety Administration
-Emergency Management Agency
-Federal Financial Institutions Examination Council
-US International Development Finance Corporation
-Chemical Safety and Hazard Investigation Board
-United States Postal Service
-Transportation Security Administration
-Government Accountability Office
-Administrative Conference of the United States
-Federal Insurance Office
-IRS
-FBI
-CIA
-NSA
-DEA
-ATF
-TSA
-FEMA
-DHS
-FCC
-FDA
-CDC
-OSHA
-EPA
-HUD
-HHS
-SSA
-NLRB
-CFPB
-NHTSA
-NPS
-BLM
-NEA
-USPS
-Amtrak
-NPR
-PBS
-USAID
-USGS
-NOAA
-FWS
-Fannie Mae
-Freddie Mac
-Department of Education
-Department of Energy
-Department of Commerce
-Department of Labor
-Department of Agriculture
-Department of Housing and Urban Development
-Selective Service System
+Export Licensing
+Public Housing
+National Guard
+Transportation Security Administration (TSA)
+Federal Deposit Insurance Corporation
+Clean Water Act
+Medicare
 National Endowment for the Arts
-National Endowment for the Humanities
+Tariffs on Imported Goods
+Temporary Assistance for Needy Families
+Pell Grants
+Bureau of Engraving and Printing
+Rural Housing Service
+Minority Business Development Agency
+Minting Coins
+Inheritance Tax
+Patent and Trademark Office
+Federal Prison Industries
+National Telecommunications and Information Administration
+Affirmative Action
+Universal Basic Income Trials
+Government Printing Office
+Copyright Extension
+Appalachian Regional Commission
+General Services Administration
+Federal Maritime Commission
+Department of Homeland Security
+Federal Judicial Center
+Corporation for National and Community Service
+Department of Housing and Urban Development
+Public Sector Unions
+Federal Acquisition Regulation
 Peace Corps
-Federal Reserve System
+Highway Trust Fund
+Amtrak
+Securities and Exchange Commission (SEC)
+Corporate Income Tax
+Senior Corps
+Food and Drug Administration (FDA)
+Online Privacy Regulations
+National Public Radio (NPR)
+Planned Parenthood Funding
+Federal Labor Relations Authority
+Western Area Power Administration
+Border Wall Funding
+Bureau of Economic Analysis
+Bureau of the Census
+Occupational Safety and Health Administration (OSHA)
+Sugar Subsidies
+Affordable Care Act Mandates
+National Minimum Drinking Age
+Music Licensing Regulations
+Centers for Disease Control and Prevention
+World Bank Contributions
+Census Long Form
+Housing Vouchers
+Federal Reserve
+Federal Employees Health Benefits Program
+Department of Energy
+Office of Federal Contract Compliance Programs
+Rent Control
+Ethanol Subsidies
+Sarbanes-Oxley Act
+Department of Labor
+Office of the U.S. Trade Representative
+Marine Mammal Protection
+National Endowment for the Humanities
+Estate Tax
+Television Licensing and Fees
+Economic Adjustment Assistance
+Environmental Protection Agency (EPA)
+Clean Air Act
+Bonneville Power Administration
+War on Drugs
+Internal Revenue Service (IRS)
+Federal Trade Commission (FTC)
+International Monetary Fund Contributions
+U.S. Election Assistance Commission
+Federal Election Commission
+Minimum Wage Laws
+Federal Building Fund
+Election Assistance Commission
+Public Defender Service
+Drug Enforcement Administration (DEA)
+Appalachian Regional Commission
+Customs and Border Protection
+Economic Development Administration
+U.S. Commodity Futures Trading Commission
+Veterans Benefits Administration
+Pipeline and Hazardous Materials Safety Administration
+Military Health System
+Selective Service
+Federal Voter ID Laws
+U.S. Trade and Development Agency
+Alcohol Tax
+Federal Aviation Administration (FAA)
+National Science Foundation
+Gun Control Laws
+Bureau of Industry and Security
+Office of Personnel Management
+Bureau of Prisons
+Campaign Finance Laws
+Export-Import Bank
+Library of Congress
+Northern Border Regional Commission
+Legal Services Corporation
+Defense Logistics Agency
+Equal Employment Opportunity Commission
+Veterans Health Administration
+Import Quotas
+Child Nutrition Programs
+Department of Commerce
+Head Start
+U.S. Citizenship and Immigration Services
+National Oceanic and Atmospheric Administration
+Anti-Trust Laws
+Smithsonian Institution
+Supplemental Nutrition Assistance Program
+Department of Agriculture
+Rural Utilities Service
+National Highway Traffic Safety Administration
+U.S. Sentencing Commission
+National Institute of Standards and Technology
+Denali Commission
+Bureau of Land Management
+Net Neutrality
+Federal Emergency Management Agency (FEMA)
+Federal Railroad Administration
+Defense Commissary Agency
+Military Bases Abroad
+Alaska Power Administration
+AmeriCorps
+U.S. Agency for International Development
+Defense Finance and Accounting Service
+Medicaid
+Consumer Financial Protection Bureau (CFPB)
+AbilityOne Commission
+National Labor Relations Board
+Affordable Care Act
+Bureau of Reclamation
+Public Works and Economic Development
+Surface Transportation Board
+G.I. Bill Benefits
+Corporate Bailouts
+National Mediation Board
+Community Development Block Grants
+Capital Requirements for Banks
+National Transportation Safety Board
+Office of Government Ethics
+Patriot Act
+Northwest Power and Conservation Council
+Foreign Aid
+Low Income Home Energy Assistance Program
+Railroad Retirement Board
+Department of Education
+Selective Service System
+Real Estate Settlement Procedures Act
+Federal Transit Administration
+National Institutes of Health
+Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+Endangered Species Act
+Bureau of Indian Affairs
+Tennessee Valley Authority
+Overseas Private Investment Corporation
+Federal Highway Administration
+Indian Gaming Regulations
+Women, Infants, and Children Program
+Fish and Wildlife Service
+Immigration and Customs Enforcement (ICE)
+Subsidies for Renewable Energy
+Student Loan Programs
+Southwestern Power Administration
+Social Security
+Radio Spectrum Auctions
+Capital Gains Tax
+Office of Foreign Assets Control (OFAC)
+U.S. Geological Survey
+Public Broadcasting Service (PBS)
+National Archives
+Postal Service Monopoly
+Federal Retirement Programs
+Fannie Mae and Freddie Mac
+National Security Agency (NSA)
+Maritime Administration
