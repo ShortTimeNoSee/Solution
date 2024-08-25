@@ -1,200 +1,452 @@
-Federal Communications Commission (FCC)
-Steel Tariffs
-Auto Emissions Standards
-Southeastern Power Administration
-Committee for Purchase from People Who Are Blind or Severely Disabled
-Federal Income Tax
-Tobacco Tax
-Delta Regional Authority
-U.S. Commission on Civil Rights
-Health Insurance Portability and Accountability Act (HIPAA)
-Affordable Housing Programs
-Coast Guard
-United Nations Funding
-Gasoline Tax
-Farm Subsidies
-Federal Motor Carrier Safety Administration
-Export Licensing
-Public Housing
-National Guard
-Transportation Security Administration (TSA)
-Federal Deposit Insurance Corporation
-Clean Water Act
-Medicare
-National Endowment for the Arts
-Tariffs on Imported Goods
-Temporary Assistance for Needy Families
-Pell Grants
-Bureau of Engraving and Printing
-Rural Housing Service
-Minority Business Development Agency
-Minting Coins
-Inheritance Tax
-Patent and Trademark Office
-Federal Prison Industries
-National Telecommunications and Information Administration
-Affirmative Action
-Universal Basic Income Trials
-Government Printing Office
-Copyright Extension
-Appalachian Regional Commission
-General Services Administration
-Federal Maritime Commission
-Department of Homeland Security
-Federal Judicial Center
-Corporation for National and Community Service
-Department of Housing and Urban Development
-Public Sector Unions
-Federal Acquisition Regulation
-Peace Corps
-Highway Trust Fund
-Amtrak
-Securities and Exchange Commission (SEC)
-Corporate Income Tax
-Senior Corps
-Food and Drug Administration (FDA)
-Online Privacy Regulations
-National Public Radio (NPR)
-Planned Parenthood Funding
-Federal Labor Relations Authority
-Western Area Power Administration
-Border Wall Funding
-Bureau of Economic Analysis
-Bureau of the Census
-Occupational Safety and Health Administration (OSHA)
-Sugar Subsidies
-Affordable Care Act Mandates
-National Minimum Drinking Age
-Music Licensing Regulations
-Centers for Disease Control and Prevention
-World Bank Contributions
-Census Long Form
-Housing Vouchers
-Federal Reserve
-Federal Employees Health Benefits Program
+Bureau of Transportation Statistics
+Wage and Hour Division
+Committee on Foreign Investment in the United States
+Office of Refugee Resettlement
 Department of Energy
-Office of Federal Contract Compliance Programs
-Rent Control
-Ethanol Subsidies
-Sarbanes-Oxley Act
-Department of Labor
-Office of the U.S. Trade Representative
-Marine Mammal Protection
-National Endowment for the Humanities
-Estate Tax
-Television Licensing and Fees
-Economic Adjustment Assistance
-Environmental Protection Agency (EPA)
-Clean Air Act
-Bonneville Power Administration
-War on Drugs
-Internal Revenue Service (IRS)
-Federal Trade Commission (FTC)
-International Monetary Fund Contributions
-U.S. Election Assistance Commission
-Federal Election Commission
-Minimum Wage Laws
-Federal Building Fund
-Election Assistance Commission
-Public Defender Service
-Drug Enforcement Administration (DEA)
-Appalachian Regional Commission
-Customs and Border Protection
-Economic Development Administration
-U.S. Commodity Futures Trading Commission
-Veterans Benefits Administration
-Pipeline and Hazardous Materials Safety Administration
-Military Health System
-Selective Service
-Federal Voter ID Laws
-U.S. Trade and Development Agency
-Alcohol Tax
-Federal Aviation Administration (FAA)
-National Science Foundation
-Gun Control Laws
-Bureau of Industry and Security
-Office of Personnel Management
-Bureau of Prisons
-Campaign Finance Laws
-Export-Import Bank
-Library of Congress
-Northern Border Regional Commission
-Legal Services Corporation
-Defense Logistics Agency
-Equal Employment Opportunity Commission
-Veterans Health Administration
-Import Quotas
-Child Nutrition Programs
-Department of Commerce
-Head Start
-U.S. Citizenship and Immigration Services
-National Oceanic and Atmospheric Administration
-Anti-Trust Laws
-Smithsonian Institution
-Supplemental Nutrition Assistance Program
-Department of Agriculture
-Rural Utilities Service
-National Highway Traffic Safety Administration
-U.S. Sentencing Commission
+Reclamation and Enforcement
 National Institute of Standards and Technology
-Denali Commission
+Environmental Protection Agency
+Office of Fossil Energy and Carbon Management
+National Council on Disability
+Immigrant and Employee Rights Section
+National Cemetery Administration
+Postal Regulatory Commission
+U.S. Army
+Transportation Security Administration
+Western Area Power Administration
+Federal Executive Boards
+U.S. Coast Guard
+U.S. International Trade Commission
+Joint Program Executive Office for Chemical
+Nuclear Energy
 Bureau of Land Management
-Net Neutrality
-Federal Emergency Management Agency (FEMA)
-Federal Railroad Administration
-Defense Commissary Agency
-Military Bases Abroad
-Alaska Power Administration
-AmeriCorps
-U.S. Agency for International Development
+Substance Abuse and Mental Health Services Administration
+National Laboratories
+Employment and Training Administration
+Bonneville Power Administration
+Administration for Children and Families
+Federal Laboratory Consortium for Technology Transfer
+Radio Free Asia
+Medicaid and CHIP Payment and Access Commission
+Secret Service
+Energy
+Centers for Medicare and Medicaid Services
+National Institute for Occupational Safety and Health
+National Indian Gaming Commission
+U.S. Department of Health and Human Services
+Defense Nuclear Facilities Safety Board
+U.S. Central Command
+National Institute of Arthritis
+Department of Veterans Affairs
+U.S. National Central Bureau - Interpol
+U.S. Sentencing Commission
+Bureau of Alcohol
+Employee Benefits Security Administration
+Court of Federal Claims
+Missile Defense Agency
+Department of State
+U.S. Agency for Global Media
+Federal Accounting Standards Advisory Board
+U.S. Access Board
+Court of Appeals for the Armed Forces
+U.S. Patent and Trademark Office
+Federal Communications Commission
+Court of Appeals for the Federal Circuit
+Denali Commission
+and the Environment
+U.S. Cyber Command
+Defense Health Agency
+National Health Information Center
+Uniformed Services University of the Health Sciences
+Veterans Health Administration
+Citizens' Stamp Advisory Committee
+Office of Special Education and Rehabilitative Services
+John F. Kennedy Center for the Performing Arts
+Congressional Research Service
+Legal Services Corporation
+Defense Finance and Accounting Service Debt and Claims Department
+Under Secretary for Political Affairs
+Radio Free Europe/Radio Liberty
+National Park Foundation
+Joint Fire Science Program
+Federal Law Enforcement Training Center
+Food and Nutrition Service
+Equal Employment Opportunity Commission
+National Institute of Justice
+National Defense University
+National Highway Traffic Safety Administration
+National Agricultural Statistics Service
+Office of Textiles and Apparel
+Consumer Financial Protection Bureau
 Defense Finance and Accounting Service
-Medicaid
-Consumer Financial Protection Bureau (CFPB)
-AbilityOne Commission
-National Labor Relations Board
-Affordable Care Act
-Bureau of Reclamation
-Public Works and Economic Development
-Surface Transportation Board
-G.I. Bill Benefits
-Corporate Bailouts
-National Mediation Board
-Community Development Block Grants
-Capital Requirements for Banks
-National Transportation Safety Board
-Office of Government Ethics
-Patriot Act
-Northwest Power and Conservation Council
-Foreign Aid
-Low Income Home Energy Assistance Program
-Railroad Retirement Board
-Department of Education
-Selective Service System
-Real Estate Settlement Procedures Act
+Tobacco
 Federal Transit Administration
-National Institutes of Health
-Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-Endangered Species Act
-Bureau of Indian Affairs
-Tennessee Valley Authority
-Overseas Private Investment Corporation
-Federal Highway Administration
-Indian Gaming Regulations
-Women, Infants, and Children Program
-Fish and Wildlife Service
-Immigration and Customs Enforcement (ICE)
-Subsidies for Renewable Energy
-Student Loan Programs
-Southwestern Power Administration
-Social Security
-Radio Spectrum Auctions
-Capital Gains Tax
-Office of Foreign Assets Control (OFAC)
-U.S. Geological Survey
-Public Broadcasting Service (PBS)
-National Archives
-Postal Service Monopoly
-Federal Retirement Programs
-Fannie Mae and Freddie Mac
-National Security Agency (NSA)
+Federal Election Commission
+Lung and Blood Institute
+Administration for Community Living
+Election Assistance Commission
+U.S. Trade Representative
+U.S. Commission on International Religious Freedom
+Drug Enforcement Administration
+U.S. Mission to the United Nations
+Bureau of Justice Statistics
+Freddie Mac
+Small Business Administration
+Economic Development Administration
+Holocaust Memorial Museum
+Sports and Nutrition
+Defense Intelligence Agency
+Office of Policy Development and Research
+U.S. Trade and Development Agency
+National Institute of Diabetes and Digestive and Kidney Diseases
+Foreign Claims Settlement Commission
+Office of the Assistant Secretary for Research and Technology
+Office of Environmental Management
+Coordinating Council on Juvenile Justice and Delinquency Prevention
+Judicial Panel on Multidistrict Litigation
+Chief Human Capital Officers Council
+Advisory Council on Historic Preservation
+Chief Acquisition Officers Council
+National Capital Planning Commission
+Defense Security Cooperation Agency
+Joint Board for the Enrollment of Actuaries
+Internal Revenue Service
+Defense Advanced Research Projects Agency
+Antitrust Division
+Mine Safety and Health Administration
+Nuclear Waste Technical Review Board
 Maritime Administration
+and Adult Education
+Bureau of Industry and Security
+Administrative Conference of the United States
+National Oceanic and Atmospheric Administration
+Nuclear Regulatory Commission
+Federal Motor Carrier Safety Administration
+National Institute on Deafness and Other Communication Disorders
+Federal Energy Regulatory Commission
+Department of the Treasury
+Rehabilitation Services Administration
+Food and Drug Administration
+Federal Mediation and Conciliation Service
+Musculoskeletal and Skin Diseases
+Marine Mammal Commission
+National Archives and Records Administration
+Economic Research Service
+Bureau of International Labor Affairs
+Rural Utilities Service
+National Gallery of Art
+Joint Congressional Committee on Inaugural Ceremonies
+Federal Labor Relations Authority
+Federal Protective Service
+Office of the Federal Register
+Department of Justice
+Military Postal Service Agency
+Delta Regional Authority
+Federal Geographic Data Committee
+Bureau of Indian Affairs
+President's Council on Fitness
+U.S. AbilityOne Commission
+U.S. Space Command
+Strategic Command
+Washington Headquarters Services
+Bankruptcy Courts
+Office of Servicemember Affairs
+Center for Nutrition Policy and Promotion
+National Heart
+Office of Cuba Broadcasting
+U.S. Geological Survey
+Privacy and Civil Liberties Oversight Board
+Indoor Air Quality
+Technical
+International Trade Administration
+Executive Office for Immigration Review
+Natural Resources Conservation Service
+Office of Postsecondary Education
+Defense Contract Audit Agency
+National Interagency Fire Center
+U.S. Immigration and Customs Enforcement
+U.S. Africa Command
+Farm Credit Administration
+Social Security Advisory Board
+Investor.gov
+Rural Housing Service
+Central Intelligence Agency
+House Office of the Clerk
+National Mediation Board
+Pretrial Services Agency for the District of Columbia
+Commission on Presidential Scholars
+Office of Lead Hazard Control and Healthy Homes
+Office of the Comptroller of the Currency
+Administration for Native Americans
+U.S. Botanic Garden
+Federal Financial Institutions Examination Council
+Wireless Telecommunications Bureau
+Fannie Mae
+Federal Bureau of Prisons
+Institute of Museum and Library Services
+Supreme Court of the United States
+Civil Rights Division
+Office for Civil Rights
+Office for Civil Rights
+Department of Justice
+Cybersecurity and Infrastructure Security Agency
+James Madison Memorial Fellowship Foundation
+National Security Council
+Office of Special Counsel
+National Flood Insurance Program
+Fulbright Program
+Occupational Safety and Health Administration
+National Institute of Food and Agriculture
+Office of Scientific and Technical Information
+Defense Technical Information Center
+Mississippi River Commission
+Institute of Education Sciences
+Federal Financing Bank
+Medicare Payment Advisory Commission
+Arms Control and International Security
+Veterans Benefits Administration
+Department of the Interior
+National Institutes of Health
+Commodity Futures Trading Commission
+Centers for Disease Control and Prevention
+National Credit Union Administration
+Harry S. Truman Scholarship Foundation
+Commission on Security and Cooperation in Europe (Helsinki Commission)
+Federal Retirement Thrift Investment Board
+Federal Interagency Committee for the Management of Noxious and Exotic Weeds
+Minority Business Development Agency
+United States Institute of Peace
+U.S. Transportation Command
+Department of Energy’s Office of Science
+Agricultural Marketing Service
+National Center for Complementary and Integrative Health
+U.S. Senate
+Susquehanna River Basin Commission
+Federal Highway Administration
+Department of Housing and Urban Development
+Federal Committee on Statistical Methodology
+Bureau of Safety and Environmental Enforcement
+Merit Systems Protection Board
+Pension Benefit Guaranty Corporation
+Architect of the Capitol
+National Weather Service
+Federal Housing Finance Agency
+Office of Elementary and Secondary Education
+Defense Commissary Agency
+White House
+United States Postal Inspection Service
+Federal Consulting Group
+Court Services and Offender Supervision Agency for the District of Columbia
+Job Corps
+Council of Economic Advisers
+Fish and Wildlife Service
+Alcohol and Tobacco Tax and Trade Bureau
+Department of Transportation
+Federal Mine Safety and Health Review Commission
+Chief Information Officers Council
+Council of the Inspectors General on Integrity and Efficiency
+Office of Housing
+Office of Local Defense Community Cooperation
+Japan-United States Friendship Commission
+National Science Foundation
+Armed Forces Retirement Home
+Office of Energy Efficiency and Renewable Energy
+Tennessee Valley Authority
+National Invasive Species Information Center
+Barry M. Goldwater Scholarship and Excellence in Education Foundation
+National Reconnaissance Office
+House Office of Inspector General
+Federal Judicial Center
+Energy Information Administration
+Congressional Budget Office
+National Ocean Service
+General Services Administration
+Science and Technology
+Department of Education
+Community Oriented Policing Services
+Office of Natural Resources Revenue
+Department of Labor
+Council on Environmental Quality
+National Institute of Mental Health
+State Justice Institute
+Farm Credit System Insurance Corporation
+Oak Ridge National Laboratory
+U.S. Commission of Fine Arts
+Joint Chiefs of Staff
+Census Bureau
+AmeriCorps
+Office of Disability Employment Policy
+Bureau of Reclamation
+National Geospatial-Intelligence Agency
+Federal Railroad Administration
+Office of the Director of National Intelligence
+Fair Housing and Equal Opportunity
+Center for Parent Information and Resources
+National Park Service
+Millennium Challenge Corporation
+National Constitution Center
+U.S. House of Representatives
+Bureau of the Fiscal Service
+Veterans' Employment and Training Service
+Presidio Trust
+National Aeronautics and Space Administration
+Office of Career
+Office of Child Support Services
+U.S. Capitol Visitor Center
+Udall Foundation
+Chief Financial Officers Council
+Office of Community Planning and Development
+National Institute of Corrections
+Office of Science and Technology Policy
+Indo-Pacific Command
+U.S. Navy
+Open World Leadership Center
+Ginnie Mae
+Office of Government Ethics
+U.S. Marine Corps
+National Pesticide Information Center
+Risk Management Agency
+National Transportation Safety Board
+Unified Combatant Commands
+Federal Housing Administration
+Department of Defense
+Government Publishing Office
+Women's Bureau
+Pentagon Force Protection Agency
+Surface Transportation Board
+Federal Aviation Administration
+Copyright Office
+Office of English Language Acquisition
+U.S. Citizenship and Immigration Services
+U.S. Air Force
+Library of Congress
+Rural Development
+Social Security Administration
+Office of Manufactured Housing Programs
+Office of Juvenile Justice and Delinquency Prevention
+Agency for Healthcare Research and Quality
+Office of Justice Programs
+Voice of America
+U.S. Parole Commission
+Indian Arts and Crafts Board
+African Development Foundation
+Firearms and Explosives
+West Point
+Indian Health Service
+U.S. Capitol Police
+Department of Education
+Office of Management and Budget
+U.S. Customs and Border Protection
+National Institute of Neurological Disorders and Stroke
+National Security Agency
+Center for Food Safety and Applied Nutrition
+Federal Bureau of Investigation
+Saint Lawrence Seaway Development Corporation
+Tax Court
+Interagency Alternative Dispute Resolution Working Group
+U.S. Northern Command
+U.S. Southern Command
+Rural Business-Cooperative Service
+Agency for Toxic Substances and Disease Registry
+Court of International Trade
+Office of Multifamily Housing Programs
+Federal Reserve System
+Defense POW/MIA Accounting Agency
+Pipeline and Hazardous Materials Safety Administration
+Federal Maritime Commission
+Bureau of Economic Analysis
+Defense Logistics Agency
+National Labor Relations Board
+Federal Student Aid
+Defense Information Systems Agency
+Food Safety and Inspection Service
+Joint Forces Staff College
+U.S. Military Academy
+Woodrow Wilson International Center for Scholars
+Farm Service Agency
+National Institute of Allergy and Infectious Diseases
+Defense Threat Reduction Agency
+American Battle Monuments Commission
+National Library of Medicine
+U.S. Trustee Program
+Biological
+NOAA Fisheries
+National Prevention Information Network
+Smithsonian Institution
+Consumer Product Safety Commission
+U.S. Army Corps of Engineers
+Northern Border Regional Commission
+Export-Import Bank of the United States
+Animal and Plant Health Inspection Service
+Health Resources and Services Administration
+AmeriCorps Seniors
+Bureau of Ocean Energy Management
+Surface Mining
+Federal Deposit Insurance Corporation
+Peace Corps
+National Nuclear Security Administration
+Economic Growth
+U.S. Mint
+Selective Service System
+U.S. Postal Service
+U.S. Court of Appeals for Veterans Claims
+Office on Violence Against Women
+U.S. Fire Administration
+U.S. International Development Finance Corporation
+Marshals Service
+National Technical Information Service
+Delaware River Basin Commission
+U.S. European Command
+Bureau of Consular Affairs
+Forest Service
+U.S. Special Operations Command
+Railroad Retirement Board
+National Cancer Institute
+Federal Emergency Management Agency
+Office of National Drug Control Policy
+U.S. Courts of Appeal
+Securities and Exchange Commission
+Inter-American Foundation
+U.S. Arctic Research Commission
+United States Interagency Council on Homelessness
+Elder Justice Initiative
+Administrative Office of the U.S. Courts
+Commission on Civil Rights
+Appalachian Regional Commission
+Defense Counterintelligence and Security Agency
+U.S. Department of Commerce
+Department of Health and Human Services
+National Endowment for the Humanities
+Stennis Center for Public Service
+Office of the Pardon Attorney
+Under Secretary for Public Diplomacy and Public Affairs
+Southeastern Power Administration
+Migratory Bird Conservation Commission
+U.S. Air Force Reserve Command
+U.S. Department of Agriculture
+Bureau of Labor Statistics
+Government Accountability Office
+Southwestern Power Administration
+National Agricultural Library
+Defense Contract Management Agency
+Office of Weights and Measures
+Office of Personnel Management
+Public and Indian Housing
+Alhurra TV
+Bureau of Engraving and Printing
+Radiological and Nuclear Defense
+National Guard
+Department of Homeland Security
+Federal Voting Assistance Program
+National Telecommunications and Information Administration
+National Endowment for the Arts
+Federal Library and Information Network
+U.S. Fleet Forces Command
+Office of Minority Health
+Chemical Safety Board
+Agricultural Research Service
+Occupational Safety and Health Review Commission
+Foreign Agricultural Service
+Office of Congressional Workplace Rights
+Federal Trade Commission
+U.S. Agency for International Development
